@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MornhouseTestTask</string>
+    <string name="hint">Please enter the number</string>
+    <string name="get_fact">Get fact about number</string>
+    <string name="get_random_fact">Get fact about random number</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="alert"> Internet Connection Alert !</string>
+    <string name="check_connection"> Please Check Your Internet Connection</string>
+    <string name="message"> Please connect to the internet </string>
+
+</resources>
